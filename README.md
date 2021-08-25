@@ -16,45 +16,43 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<p align="center">
-
-  <a>
-    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/graphs/contributors"><img src="https://img.shields.io/github/contributors/g-tejas/SkimLit.svg?style=plastic" alt="Contributors"></a>
-  </a>
-  <a>
-    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/network/members"><img src="https://img.shields.io/github/forks/g-tejas/SkimLit.svg?style=plastic" alt="Forks"></a>
-  </a>
-  <a>
-    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/issues"><img src="https://img.shields.io/github/issues/g-tejas/SkimLit.svg?style=plastic" alt="Issues"></a>
-  </a>
-  <a>
-    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/stargazers"><img src="https://img.shields.io/github/stars/g-tejas/SkimLit.svg?style=plastic" alt="Stars"></a>
-  </a>
-  <a>
-    <a style="margin: 0 5px" href="https://colab.research.google.com"><img    src="https://colab.research.google.com/assets/colab-badge.svg"></a>
-  </a>
-
-</p>
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/g-tejas/SkimLit">
-    <img src="img/logo.png" alt="Logo">
+    <img src="img/logo.png" alt="Logo" width="430" height="100">
   </a>
+
+  <p align="center">
+    <a>
+        <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/graphs/contributors"><img src="https://img.shields.io/github/contributors/g-tejas/SkimLit.svg?style=plastic" alt="Contributors"></a>
+    </a>
+    <a>
+        <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/network/members"><img src="https://img.shields.io/github/forks/g-tejas/SkimLit.svg?style=plastic" alt="Forks"></a>
+    </a>
+    <a>
+        <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/issues"><img src="https://img.shields.io/github/issues/g-tejas/SkimLit.svg?style=plastic" alt="Issues"></a>
+    </a>
+    <a>
+        <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/stargazers"><img src="https://img.shields.io/github/stars/g-tejas/SkimLit.svg?style=plastic" alt="Stars"></a>
+    </a>
+    <a>
+        <a style="margin: 0 5px" href="https://colab.research.google.com"><img    src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+    </a>
+  </p>
 
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/g-tejas/SkimLit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/g-tejas/SkimLit/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/g-tejas/SkimLit/issues">Request Feature</a>
   </p>
 </p>
 
