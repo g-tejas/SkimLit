@@ -39,7 +39,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">SkimLit 📄🔥</h1>
+  <a href="https://github.com/g-tejas/SkimLit">
+    <img src="img/logo.png" alt="Logo">
+  </a>
+
 
   <p align="center">
     An awesome README template to jumpstart your projects!
