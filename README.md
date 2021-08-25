@@ -20,16 +20,33 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<p align="center">
+
+  <a>
+    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/graphs/contributors"><img src="https://img.shields.io/github/contributors/g-tejas/SkimLit.svg?style=for-the-badge" alt="Contributors"></a>
+  </a>
+  <a>
+    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/network/members"><img src="https://img.shields.io/github/forks/g-tejas/SkimLit.svg?style=for-the-badge" alt="Forks"></a>
+  </a>
+  <a>
+    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/issues"><img src="https://img.shields.io/github/issues/g-tejas/SkimLit.svg?style=for-the-badge" alt="Issues"></a>
+  </a>
+  <a>
+    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/stargazers"><img src="https://img.shields.io/github/stars/g-tejas/SkimLit.svg?style=for-the-badge" alt="Stars"></a>
+  </a>
+  <a>
+    <a style="margin: 0 5px" href="https://colab.research.google.com"><img    src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+  </a>
 
 </p>
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/skimlit.png" alt="Logo" width="80" height="80">
+    <img src="img/skimlit.png" alt="Logo" width="2476" height="412">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -189,19 +206,7 @@ Project Link: [https://github.com/g-tejas/SkimLit](https://github.com/g-tejas/Sk
 * [Font Awesome](https://fontawesome.com)
 
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/g-tejas/SkimLit.svg?style=for-the-badge
-[contributors-url]: https://github.com/g-tejas/SkimLit/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/g-tejas/SkimLit.svg?style=for-the-badge
-[forks-url]: https://github.com/g-tejas/SkimLit/network/members
-[stars-shield]: https://img.shields.io/github/stars/g-tejas/SkimLit.svg?style=for-the-badge
-[stars-url]: https://github.com/g-tejas/SkimLit/stargazers
-[issues-shield]: https://img.shields.io/github/issues/g-tejas/SkimLit.svg?style=for-the-badge
-[issues-url]: https://github.com/g-tejas/SkimLit/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/gtejas/
+
 [product-screenshot]: images/screenshot.png
