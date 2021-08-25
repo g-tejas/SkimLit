@@ -40,7 +40,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/skimlit.png" alt="Logo" width="2476" height="80">
+    <img src="img/skimlit.png" alt="Logo" width="2476" height="150">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
