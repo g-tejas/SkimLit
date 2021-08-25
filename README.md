@@ -15,26 +15,20 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<p align="center">
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 
 <p align="center">
 
   <a>
-    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/graphs/contributors"><img src="https://img.shields.io/github/contributors/g-tejas/SkimLit.svg?style=for-the-badge" alt="Contributors"></a>
+    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/graphs/contributors"><img src="https://img.shields.io/github/contributors/g-tejas/SkimLit.svg?style=plastic" alt="Contributors"></a>
   </a>
   <a>
-    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/network/members"><img src="https://img.shields.io/github/forks/g-tejas/SkimLit.svg?style=for-the-badge" alt="Forks"></a>
+    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/network/members"><img src="https://img.shields.io/github/forks/g-tejas/SkimLit.svg?style=plastic" alt="Forks"></a>
   </a>
   <a>
-    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/issues"><img src="https://img.shields.io/github/issues/g-tejas/SkimLit.svg?style=for-the-badge" alt="Issues"></a>
+    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/issues"><img src="https://img.shields.io/github/issues/g-tejas/SkimLit.svg?style=plastic" alt="Issues"></a>
   </a>
   <a>
-    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/stargazers"><img src="https://img.shields.io/github/stars/g-tejas/SkimLit.svg?style=for-the-badge" alt="Stars"></a>
+    <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/stargazers"><img src="https://img.shields.io/github/stars/g-tejas/SkimLit.svg?style=plastic" alt="Stars"></a>
   </a>
   <a>
     <a style="margin: 0 5px" href="https://colab.research.google.com"><img    src="https://colab.research.google.com/assets/colab-badge.svg"></a>
@@ -46,7 +40,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/skimlit.png" alt="Logo" width="2476" height="412">
+    <img src="img/skimlit.png" alt="Logo" width="2476" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
