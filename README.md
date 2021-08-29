@@ -37,7 +37,7 @@
         <a style="margin: 0 5px" href="https://github.com/g-tejas/SkimLit/stargazers"><img src="https://img.shields.io/github/stars/g-tejas/SkimLit.svg?style=plastic" alt="Stars"></a>
     </a>
     <a>
-        <a style="margin: 0 5px" href="https://colab.research.google.com"><img    src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+        <a style="margin: 0 5px" href="https://colab.research.google.com/drive/1iceHKxffz_oLud9Zoxu300FZKANyI6kx?usp=sharing"><img    src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </a>
   </p>
 
@@ -48,7 +48,7 @@
     <a href="https://github.com/g-tejas/SkimLit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/g-tejas/SkimLit">View Demo</a>
     ·
     <a href="https://github.com/g-tejas/SkimLit/issues">Report Bug</a>
     ·
